@@ -1,8 +1,10 @@
 ## Introduction
 Just some text
 
-# Main content
+## Main content
 Large text here...
+
+## Extra header
 
 ## Copyright
 All rights reserved
