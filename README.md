@@ -15,3 +15,5 @@ Some text also here...
 
 ## Copyright
 All rights reserved OYarkin
+
+Some text after stashing
