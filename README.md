@@ -1,5 +1,5 @@
 ## Intro
-Just some text
+Just some text. Line for rebasing example
 
 ## Content
 * link1
