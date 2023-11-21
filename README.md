@@ -1,5 +1,6 @@
 ## Intro
-Just some text. Line for rebasing example
+Just some text. Line for rebasing example. 
+Add another line from myfeature branch
 
 ## Content
 * link1
